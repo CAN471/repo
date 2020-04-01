@@ -1,0 +1,119 @@
+Package: com.adamseiter.animationsbefast
+Name: AnimationsBeFast
+Author: Adam Seiter
+Description: Speeds up animations
+Depends: mobilesubstrate
+Maintainer: Adam Seiter
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.4.7
+Installed-Size: 324
+Filename: debs/com.adamseiter.animationsbefast.deb
+Size: 28828
+MD5sum: f59cb508957fa726d745a861234a8571
+SHA1: ada46b21aeb2472216cb4c3ebec170e72b7b6672
+SHA256: db070b737f6f57bbd08aea5cb7abf890a992a4b94c941ce7682b164b4f1a3a8e
+Depiction: https://CAN471.github.io/depictions/animationsbefast/index.html
+
+Package: com.adamseiter.flashtap
+Name: FlashTap
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Adam Seiter
+Author: Adam Seiter
+Section: Tweaks
+Version: 1.0
+Installed-Size: 274
+Filename: debs/com.adamseiter.flashtap.deb
+Size: 13436
+MD5sum: 96e2ee262d261de99185e3ab9092e5a2
+SHA1: 00a3e50c300e6c5706bd4c15545aec0ecd686ec8
+SHA256: 0c78ec6bf87fc0d9ec71a2b89a945d5b275c7224ae6e2c4f73b5f2c8edbd2ae0
+Depiction: https://CAN471.github.io/depictions/flashtap/index.html
+
+Package: com.adamseiter.morepoweroptions
+Name: MorePowerOptions
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: New power menu design. Adds more options.
+Maintainer: Adam Seiter
+Author: Adam Seiter
+Section: Tweaks
+Version: 1.3
+Installed-Size: 282
+Filename: debs/com.adamseiter.morepoweroptions.deb
+Size: 26064
+MD5sum: f70bb91552ef664dbe1b63446d086d28
+SHA1: 34b3490677a3c8371c4930d21d5c31dbc7ae59b4
+SHA256: c45fe7f3d89f9e4064f30067564c0c589328e4c9558149f6edee3d612b4f1f74
+Depiction: https://CAN471.github.io/depictions/morepoweroptions/index.html
+
+Package: com.adamseiter.nolargetitles
+Name: NoLargeTitles
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Removes ugly large titles from apps.
+Maintainer: Adam Seiter
+Author: Adam Seiter
+Section: Tweaks
+Version: 1.1
+Installed-Size: 133
+Filename: debs/com.adamseiter.nolargetitles.deb
+Size: 3970
+MD5sum: 5ff1d42747b21c04c2ee76df1d87b121
+SHA1: 4261e8557e5b41fc78f980a93b7496a0ae03604f
+SHA256: a07b707f555358cc8ec17cc0806a8b997c35673955cad3ddd758c207e41d0c2d
+Depiction: https://CAN471.github.io/depictions/nolargetitles/index.html
+
+Package: com.adamseiter.noliveclock11
+Name: NoLiveClock11
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Adam Seiter
+Author: Adam Seiter
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 133
+Filename: debs/com.adamseiter.noliveclock11.deb
+Size: 3622
+MD5sum: 557372fc11952fc2cbf714c2602a0d99
+SHA1: c8a2949e3b4f5071c09366c3ff03dae745eb866b
+SHA256: 57d38b552d7abf511e887109e06fb9d9ed9d7e17cedd40c857dc61e48a2efc1a
+Depiction: https://CAN471.github.io/depictions/noliveclock11/index.html
+
+Package: com.adamseiter.parallaxbegone
+Name: ParallaxBeGone
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Adam Seiter
+Author: Adam Seiter
+Section: Tweaks
+Version: 1.2
+Installed-Size: 280
+Filename: debs/com.adamseiter.parallaxbegone.deb
+Size: 8284
+MD5sum: c3eeb4c7cd10241852469965d72dbdf6
+SHA1: 7f37ed0699b8edb7f87693e5ea669c6ce0a34c54
+SHA256: 2e6121eb810b3a6bee0e82d3fc27cef14f40f205dac5f03a9632fe4d6fddb97e
+Depiction: https://CAN471.github.io/depictions/parallaxbegone/index.html
+
+Package: com.adamseiter.spotlightbegone11
+Name: SpotlightBeGone11
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Adam Seiter
+Author: Adam Seiter
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 133
+Filename: debs/com.adamseiter.spotlightbegone11.deb
+Size: 3748
+MD5sum: 6739363bdf554e37306056c860670241
+SHA1: 6df2ab258569b1a1789fd264c48ed38038188b59
+SHA256: c39c11b237783a661ca10e1289633afda482db3daa98bdcea899380e58324f6f
+Depiction: https://CAN471.github.io/depictions/spotlightbegone11/index.html
+

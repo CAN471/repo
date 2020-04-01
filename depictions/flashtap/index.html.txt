@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+  <title></title>
+  <base target="_top">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" href="../resources/css/style.css">
+</head>
+<body class="depiction">
+  <header>
+    <h1>FlashTap</h1>
+  </header>
+  <main id="content" role="main">
+    <ul>
+      <li class="de">
+        Triple tap on the lockscreen to toggle the flashlight.
+      </li>
+    </ul>
+    <ul>
+      <li>
+        <a href="changelog.html" role="button">Changelog</a>
+      </li>
+    </ul>
+    <ul>
+      <li>
+        <a href="http://mobile.twitter.com/adamseiter" role="button">Follow me on Twitter</a>
+      </li>
+      <li>
+        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TYLZ634AV96N2&source=url" role="button">Buy me a drink? (Donate)</a>
+      </li>
+    </ul>
+    <center><p class="footer">CAN471 - Tweaks</p></center>
+  </main>
+   <script type="text/javascript">
+if (navigator.userAgent.search(/Cydia/) != -1) {
+	document.querySelector("body > header:nth-child(1)").style.visibility = "hidden";
+	document.querySelector("body").style.margin = "20px 0 35px";
+}
+</script>
+</body>
+</html>
