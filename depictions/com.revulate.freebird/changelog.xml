@@ -1,0 +1,35 @@
+<changelog>
+	<changes>
+        
+		<version>0.1</version>
+		<change>Initial release</change>
+        
+	</changes>
+	<changes>
+        
+		<version>0.3</version>
+		<change>Cleaned up settings</change>
+		<change>Allowed custom BG color (Night Mode)</change>
+		<change>Custom DM colors (Night Mode)</change>
+		<change>Works with twttr (TestFlight for Twitter)</change>
+        
+	</changes>
+
+	<changes>
+        
+		<version>0.4</version>
+		<change>updated for arm64e</change>
+		<change>removed oled toggle</change>
+		<change>updated preferences</change>
+        
+	</changes>
+	
+	<changes>
+        
+		<version>0.6</version>
+		<change>Updated for 7.51</change>
+		<change>Updated Button Styles Options</change>
+        
+	</changes>
+
+</changelog>

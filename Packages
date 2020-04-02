@@ -1,28 +1,1326 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.chilaxan.cuboid
+Version: 0.0.9
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Maintainer: chilaxan
+Installed-Size: 0
+Depends: mobilesubstrate
+Filename: noDebsHere/Chila/com.chilaxan.cuboid_0.0.9_iphoneos-arm.deb
+Size: 21318
+MD5sum: a76313cc9ccf24c6964a74d694116821
+SHA1: ace09582af3a0f395a441b3196d3f1cf26461bb6
+SHA256: d4be3fbcf63e58d17a6791e47a9492f9a3d28581f37974ede1c72528a903dd96
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: chilaxan
+Depiction: https://idevicehacked.com/depictions/?p=com.chilaxan.cuboid
+Name: Cuboid
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Package: com.chilaxan.cuboid
+Version: 0.1.0
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Maintainer: chilaxan
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: noDebsHere/Chila/com.chilaxan.cuboid_0.1.0_iphoneos-arm.deb
+Size: 23232
+MD5sum: 96154bfd0c70307eaa0a369ed865a3c1
+SHA1: 0fbcf235b3fc087144f5d165377e04219a1e123b
+SHA256: 13b9d6abce34b9db2010ead6b1e7b67e212104bc201f1cbc161039d72ac44df9
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: chilaxan
+Depiction: https://idevicehacked.com/depictions/?p=com.chilaxan.cuboid
+Name: Cuboid
+
+Package: com.chilaxan.cuboid
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: chilaxan
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: noDebsHere/Chila/com.chilaxan.cuboid_0.1.1_iphoneos-arm.deb
+Size: 35676
+MD5sum: 610c184de6033a23164319c8c2b95472
+SHA1: 8287a587ac70b9d13e870848163f84748842d413
+SHA256: a5c60635869f197ebbce4890fd61b02660f0c404db7f12255b266af995e5bde5
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: chilaxan
+Depiction: https://idevicehacked.com/depictions/?p=com.chilaxan.cuboid
+Name: Cuboid
+
+Package: com.chilaxan.xshot
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: chilaxan
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: noDebsHere/Chila/com.chilaxan.xshot_0.0.1_iphoneos-arm.deb
+Size: 4712
+MD5sum: 8fe8942d0426cee055de7bfd9ee1f1d4
+SHA1: a2d69ba4efa0d0183fe5b58aebabecaadfc729fe
+SHA256: 756155b2089426fd253ab5a6819c07139c2d7a323c2c3bcbfa2f608718e1e148
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: chilaxan
+Name: X-Shot
+
+Package: com.chilaxan.xshot
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: chilaxan
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: noDebsHere/Chila/com.chilaxan.xshot_0.0.2-1debug_iphoneos-arm.deb
+Size: 6634
+MD5sum: 0e23961ca20691f61b2d835896afd5d9
+SHA1: 99cec77d7ef17033a02e1ff8f7e848279e71161f
+SHA256: fa4d8fb538b81381d50cffb1f8cae02142ec58da5c8246d8a846ef48692b0d9f
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: chilaxan
+Depiction: https://idevicehacked.com/depictions/?p=com.chilaxan.xshot
+Name: X-Shot
+
+Package: com.chilaxan.xshot
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: chilaxan
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: noDebsHere/Chila/com.chilaxan.xshot_0.0.3_iphoneos-arm.deb
+Size: 3548
+MD5sum: 32581e8facdd3401c62cc632e27c9d65
+SHA1: b7ddfd017fe0fe148b3422dd1330b901833ec9be
+SHA256: 8a023a1ea169fc3892f3c4042c0aecc376d6b2eabf78a4d898af559ddd6a0816
+Section: Tweaks
+Description: Remap screenshots to iPhone X gesture (VolumeUp + Power)!
+Author: chilaxan
+Depiction: https://idevicehacked.com/depictions/?p=com.chilaxan.xshot
+Name: X-Shot
+
+Package: com.chilaxan.xshot
+Version: 0.0.4-2+debug
+Architecture: iphoneos-arm
+Maintainer: chilaxan
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: noDebsHere/Chila/com.chilaxan.xshot_0.0.4-2debug_iphoneos-arm.deb
+Size: 7070
+MD5sum: 26db7b2a9548309347f5706dac32dcfd
+SHA1: baacd1a1789edb737393fc97e970f5130ef96bcc
+SHA256: 98665dc10403004e77a434e1c107854dda9a2ef93b98fd42d3b82bd2b9d0168d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: chilaxan
+Depiction: https://idevicehacked.com/depictions/?p=com.chilaxan.xshot
+Name: X-Shot
+
+Package: com.daniel63194.cabello
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: daniel63194
+Installed-Size: 1484
+Depends: mobilesubstrate, com.orangebananaspy.libobsutilities, preferenceloader, ws.hbang.common (>= 1.11)
+Filename: noDebsHere/Daniel/com.daniel63194.cabello.deb
+Size: 604592
+MD5sum: 87ba0a36ff3d01ae66ad79632740c276
+SHA1: c34d6dad820f134f53fe5f5aa854d53f1c44784a
+SHA256: 61b71436904759a1b67e5a5ef31166fc3325020c4b9d3552c313359a0e97b0db
+Section: Tweaks
+Description: Buttons, your way.
+Author: daniel63194
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.daniel63194.cabello
+Name: Cabello
+
+Package: com.easy-z.animore
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Easy-Z
+Installed-Size: 3308
+Depends: mobilesubstrate
+Filename: noDebsHere/Eazy/com.easy-z.animore_1.0.0_iphoneos-arm.deb
+Size: 3012200
+MD5sum: 7e2c04f0b6db7d985ec052be850a530d
+SHA1: f8d5fd81ce36d1f5cbe9358f47abcd0819a475a5
+SHA256: 6fd81bd05cf3e8f95d83e51a371ba3677a495d044a01c7ee9d94e50119d82d61
+Section: Tweaks
+Description: Bring the iOS 12.2 Animojis to iOS 12.0-12.1.2.
+Author: Easy-Z
+Depiction: https://www.idevicehacked.com/depictions/?p=com.easy-z.animore
+Name: Animore
+
+Package: com.idevicehacked.aetheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jim Andrews
+Filename: noDebsHere/JimaThemes/AE.deb
+Size: 415800
+MD5sum: a5456d21156db7dcfdfe22fb543d20a1
+SHA1: 99c12c516047838418352334fe8fa887a63fed35
+SHA256: 6e04b7728dde5545810b3cdadaf3562ca9ac9703913361ae1a3d8dd6cc87457c
+Section: Themes
+Description: A beautiful theme by @jima6636
+Author: Jim Andrews
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.aetheme/
+Name: AE
+
+Package: com.idevicehacked.bluelaunch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: LucifersCircle
+Installed-Size: 312
+Depends: mobilesubstrate, applist
+Filename: noDebsHere/Luci/com.idevicehacked.bluelaunch_0.0.1_iphoneos-arm.deb
+Size: 14918
+MD5sum: 0257f5dccdaaeff1b51ff1ec2ea94a0d
+SHA1: e2f09dc4c18e21531ddc6c52cc7bd8ac529a0c77
+SHA256: b26630ad1d0ed79abf55629a7734dea8011cc971339af2457a820063aafe4372
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: LucifersCircle
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.bluelaunch
+Name: BlueLaunch
+
+Package: com.idevicehacked.coletontheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jim Andrews
+Filename: noDebsHere/JimaThemes/ColeTon.deb
+Size: 2226636
+MD5sum: d0031b3d0c7da35d82f766876d448076
+SHA1: 3f4c3dcc1930def204bffe9cdd37928e4023f917
+SHA256: 192b13d2ed88e40fc673c3a0d949a940e501b7d3b7d865fe5d936d78739ed6ba
+Section: Themes
+Description: A beautiful theme by @jima6636
+Author: Jim Andrews
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.coletontheme/
+Name: ColeTon
+
+Package: com.idevicehacked.flouresent
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Flores Flores
+Filename: noDebsHere/FlouresThemes/Flouresent.deb
+Size: 28134270
+MD5sum: 515af9c98740ee024fbdba482a7e4f4d
+SHA1: 7986c9ce4f4e77bff2c7dc20e26bc281c2c3e11b
+SHA256: 042a1042f919e4014878645f77c649fe7981203a43c23731191563a3e6973052
+Section: Themes
+Description: A Flouresent theme by @djAndjess8
+Author: Flores Flores
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.flouresent/
+Name: Flouresent
+
+Package: com.idevicehacked.lexitheme
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Jim Andrews
+Filename: noDebsHere/JimaThemes/LexiTheme1.2.deb
+Size: 5994332
+MD5sum: fd4a56b58bafa0845dcb0217090af571
+SHA1: 07daa24069752122506b9e8ab642f41bc15accbb
+SHA256: aa2f0a0dc7bbe524d50997ed4567d2ab7da71ef04dd68119aba7e5e93d9beab8
+Section: Themes
+Description: A beautiful theme by @jima6636
+Author: Jim Andrews
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.lexitheme/
+Name: Lexi
+
+Package: com.idevicehacked.lockpage
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: iDeviceHacked
+Installed-Size: 984
+Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common (>= 1.11)
+Filename: noDebsHere/Luci/com.idevicehacked.lockpage_1.0.1_iphoneos-arm.deb
+Size: 674664
+MD5sum: 688b9994be9e2b79558547c9c6b5748c
+SHA1: 5b4056517b816bd329cb67c66bcc1ece7c9088f3
+SHA256: bae3debb6d397569bd8d5580af67e85ca5f3663696fa1774fade47a42688abbc
+Section: Tweaks
+Description: Lock apps in the app switcher!
+Author: iDeviceHacked
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.lockpage
+Name: LockPage
+
+Package: com.idevicehacked.miscsettings
+Version: 2.3.4
+Architecture: iphoneos-arm
+Maintainer: Lucifers Circle <luciferscircle@gmail.com>
+Installed-Size: 388
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: noDebsHere/Luci/com.idevicehacked.miscsettings_2.3.4_iphoneos-arm.deb
+Size: 47108
+MD5sum: 2dadae3d5ee903ec6920c6394a02f56b
+SHA1: c89ea1f7181245ebee1368470514785919b05db6
+SHA256: d411d25bd4382e797f98c3fab36f62607cbee0071b3af02bd8c0f5c35726d037
+Section: Tweaks
+Description: So far has 46+ Miscellaneous toggles!
+Author: Lucifers Circle <luciferscircle@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings
+Name: MiscSettings
+
+Package: com.idevicehacked.miscsettings
+Version: 2.3.5
+Architecture: iphoneos-arm
+Maintainer: Lucifers Circle <luciferscircle@gmail.com>
+Installed-Size: 396
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: noDebsHere/Luci/com.idevicehacked.miscsettings_2.3.5_iphoneos-arm.deb
+Size: 48820
+MD5sum: e8f5b9f8f37b4a75fc2a8e95eae0f34e
+SHA1: cd630e61abccb548db8722e7537965d056c3bdf9
+SHA256: 9d6c41c52c0b8a54ee3494c2c5626e5069281996356ecd067c4342ac4d3022a4
+Section: Tweaks
+Description: So far has 46+ Miscellaneous toggles!
+Author: Lucifers Circle <luciferscircle@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings
+Name: MiscSettings
+
+Package: com.idevicehacked.miscsettings
+Version: 2.3.7
+Architecture: iphoneos-arm
+Maintainer: Lucifers Circle <luciferscircle@gmail.com>
+Installed-Size: 544
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: noDebsHere/Luci/com.idevicehacked.miscsettings_2.3.7_iphoneos-arm.deb
+Size: 61050
+MD5sum: ff644a863481af5e1338b8d9abc9560a
+SHA1: 0fa6c6fe88b28e8a67772b45e687ba1c5a23f377
+SHA256: e9060d4016fe6d112bfd239e30a883b19df906e08f3c7e00b9e6c4f3e94181ec
+Section: Tweaks
+Description: So far has 46+ Miscellaneous toggles!
+Author: Lucifers Circle <luciferscircle@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings
+Name: MiscSettings
+
+Package: com.idevicehacked.miscsettings
+Version: 2.3.8
+Architecture: iphoneos-arm
+Maintainer: Lucifers Circle <luciferscircle@gmail.com>
+Installed-Size: 528
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: noDebsHere/Luci/com.idevicehacked.miscsettings_2.3.8_iphoneos-arm.deb
+Size: 60102
+MD5sum: b16248080a3cffeb9096f4f77ce4b9bc
+SHA1: 7748290c1760d87238a693e91489c9cee8abe56d
+SHA256: 5286fbe35187ae77551eff8f68cf61771f0e9a52b6d70e2e657047046fdfa3a5
+Section: Tweaks
+Description: So far has 60+ Miscellaneous toggles!
+Author: Lucifers Circle <luciferscircle@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings
+Name: MiscSettings
+Sileodepiction: https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/MiscSettings
+
+Package: com.idevicehacked.miscsettings
+Version: 2.4.0
+Architecture: iphoneos-arm
+Maintainer: Lucifers Circle <luciferscircle@gmail.com>
+Installed-Size: 552
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: noDebsHere/Luci/com.idevicehacked.miscsettings_2.4.0_iphoneos-arm.deb
+Size: 62130
+MD5sum: 6fe974330e3ecb96e0ec642bcab81667
+SHA1: cc1a2103a4a96b05232c30e91b483c3d39300503
+SHA256: 69a2160a67f6caabd4efd5af4ca70ec9bda22658f3b556697ce5fb0ed4080d6f
+Section: Tweaks
+Description: So far has 60+ Miscellaneous toggles!
+Author: Lucifers Circle <luciferscircle@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings
+Name: MiscSettings
+Sileodepiction: https://www.idevicehacked.com/depictions/com.idevicehacked.miscsettings/MiscSettings
+
+Package: com.idevicehacked.miscsettings
+Version: 2.4.1
+Architecture: iphoneos-arm
+Maintainer: Lucifers Circle <luciferscircle@gmail.com>
+Installed-Size: 552
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: noDebsHere/Luci/com.idevicehacked.miscsettings_2.4.1_iphoneos-arm.deb
+Size: 62164
+MD5sum: e9cff58c0285385ca74d89e82da289cc
+SHA1: 8e02c64bb0e808a3588a26bd6e5a25a93c9b6a24
+SHA256: 15dd7913d85d2c2e08d5f928361a5df58dd50c7f4f7e1075b36e843db8f22d20
+Section: Tweaks
+Description: So far has 60+ Miscellaneous toggles!
+Author: Lucifers Circle <luciferscircle@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings
+Name: MiscSettings
+Sileodepiction: https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/MiscSettings
+
+Package: com.idevicehacked.miscsettings
+Version: 2.4.2
+Architecture: iphoneos-arm
+Maintainer: Lucifers Circle <luciferscircle@gmail.com>
+Installed-Size: 552
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: noDebsHere/Luci/com.idevicehacked.miscsettings_2.4.2_iphoneos-arm.deb
+Size: 62962
+MD5sum: f480304b7eabd2d4854f6b7834f7f0dd
+SHA1: 448aaad589405c8df4571ae299a81ebf79fe8d59
+SHA256: 8885874cc85e03c18353011171705094f7df8f6d9a8c845c8448f89b8b4ca1fe
+Section: Tweaks
+Description: So far has 60+ Miscellaneous toggles!
+Author: Lucifers Circle <luciferscircle@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings
+Name: MiscSettings
+Sileodepiction: https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/MiscSettings
+
+Package: com.idevicehacked.neostheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jim Andrews
+Filename: noDebsHere/JimaThemes/Neos.deb
+Size: 8547474
+MD5sum: 9807ab26e73a6c36f91c34b8ba310ec8
+SHA1: 63de3cec6cbd21baac5f3eeb6e43089c7d1ecae7
+SHA256: 6b8b9e2d21c970f4069d58727af531cbb72171781a8a143cabcbe44de19c2d08
+Section: Themes
+Description: A beautiful theme by @jima6636
+Author: Jim Andrews
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.neostheme/
+Name: Neos
+
+Package: com.idevicehacked.nixtheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jim Andrews
+Filename: noDebsHere/JimaThemes/Nix.deb
+Size: 8672670
+MD5sum: 660a24cb26c434f6d2ef30ac644e97ae
+SHA1: b3446045247479f498f8b749c78b5f28e9ff59b5
+SHA256: 4b79fc68f96edd25120ea956620b6b114e9892e8cd8df529e1561f92db97e575
+Section: Themes
+Description: A beautiful theme by @jima6636
+Author: Jim Andrews
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.nixtheme/
+Name: Nix
+
+Package: com.idevicehacked.nsa
+Version: 5.1.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: Patrick Knauf
+Installed-Size: 192
+Depends: mobilesubstrate
+Filename: noDebsHere/Patrick/com.idevicehacked.nsa_5.1.3-1debug_iphoneos-arm.deb
+Size: 20958
+MD5sum: 4dc5f149fbaa8bbf7c73f6bbce2ca47f
+SHA1: 1722960044e34209a3888a2d681c6dca06e93330
+SHA256: efcbf409b052324ca5399f66557aeaff78c0d810f215b37e6ab58ac49c201119
+Section: Tweaks
+Description: Don’t get slowed down by animations on iOS 11!
+Author: Patrick Knauf
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.pknauf.nsa
+Name: NoSlowAnimationsXI
+
+Package: com.idevicehacked.simplepowerdownmenu
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: LucifersCircle
+Installed-Size: 368
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: noDebsHere/Luci/com.idevicehacked.simplepowerdownmenu_0.0.1_iphoneos-arm.deb
+Size: 47358
+MD5sum: 11604f1abf7d783d99d59b0280fc4016
+SHA1: 5098183da8ea732ef1766d6c84f2ef38db9764c0
+SHA256: a50377be79085ac04f871471b8f7efa270fa480dd9ebb5ad5e339debddef1408
+Section: Tweaks
+Description: A Completely customizable power down menu! BETA
+Author: LucifersCircle
+Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.simplepowerdownmenu
+Name: Simple Power Down Menu
+Sileodepiction: https://www.idevicehacked.com/depictions/com.idevicehacked.simplepowerdownmenu/SPDM
+
+Package: com.idevicehacked.simplepowerdownmenu
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: LucifersCircle <luciferscircle@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: noDebsHere/Luci/com.idevicehacked.simplepowerdownmenu_0.0.2_iphoneos-arm.deb
+Size: 47302
+MD5sum: 27e75d45a1f3d5322447bf69fdd1bf59
+SHA1: c094fef50ce89f47716edee6544f01914dc06ff7
+SHA256: 022c8afbb79c9a9f352dcc57751dd9c3c0fb6431b4604d3124e546e41cfb497f
+Section: Tweaks
+Description: A Completely customizable power down menu! BETA
+Author: LucifersCircle <luciferscircle@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.simplepowerdownmenu
+Name: Simple Power Down Menu
+Sileodepiction: https://idevicehacked.com/depictions/com.idevicehacked.simplepowerdownmenu/SPDM
+
+Package: com.idevicehacked.skilartheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jim Andrews
+Filename: noDebsHere/JimaThemes/SkilarTheme.deb
+Size: 5554718
+MD5sum: 192e1824371e012cd5c89e0a6ff76fc5
+SHA1: 667c9821e9a25fac302ca623bc2d508d99d7a09f
+SHA256: 720d5bc1b14bc44c9dd9876ada1e8c546ab8057860c31d38ddf39b31e08592a8
+Section: Themes
+Description: A beautiful theme by @jima6636
+Author: Jim Andrews
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.skilartheme
+Name: Skilar
+
+Package: com.idevicehacked.sleepaid
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: LucifersCircle <luciferscircle@gmail.com>
+Installed-Size: 444
+Depends: mobilesubstrate
+Filename: noDebsHere/Luci/com.idevicehacked.sleepaid_1.0_iphoneos-arm.deb
+Size: 18290
+MD5sum: 3376339f6cc5a1233ebe318b63505e21
+SHA1: 35e6877a826c067e1d87b225dd7ae5ef61767de9
+SHA256: 651bb1d1ea5d057a22da0ec9b07279e4a94c92cc92e38f4e3eee8e2c738d2bf3
+Section: Tweaks
+Description: Turn on Grayscale until alarm goes off!
+Author: LucifersCircle <luciferscircle@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.sleepaid
+Name: SleepAid
+Sileodepiction: https://idevicehacked.com/depictions/com.idevicehacked.sleepaid/SleepAid
+
+Package: com.idevicehacked.sleepaid
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: LucifersCircle <luciferscircle@gmail.com>
+Installed-Size: 444
+Depends: mobilesubstrate
+Filename: noDebsHere/Luci/com.idevicehacked.sleepaid_1.1_iphoneos-arm.deb
+Size: 18614
+MD5sum: 7d6b0757dcb69e2003aec55a3ca83005
+SHA1: af49ffa86f10ab5f2ba171d283bac3b03924bcff
+SHA256: 3a4731ca09ddc87df82d8e7fd50fec35e887f7ea0c0ff34971310e55f4b6ae58
+Section: Tweaks
+Description: Turn on Grayscale until alarm goes off!
+Author: LucifersCircle <luciferscircle@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.sleepaid
+Name: SleepAid
+Sileodepiction: https://idevicehacked.com/depictions/com.idevicehacked.sleepaid/SleepAid
+
+Package: com.idevicehacked.spdmlite
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: LucifersCircle <luciferscircle@gmail.com>
+Installed-Size: 108
+Depends: mobilesubstrate, com.midnightchips.ldrun
+Filename: noDebsHere/Luci/com.idevicehacked.spdmlite_0.0.1_iphoneos-arm.deb
+Size: 5942
+MD5sum: ed0cd979702e33618d330f30723e1527
+SHA1: 605fabba78635dfb02689e355e9b96a3f2073d5c
+SHA256: 4746625725b5d4dc21d0284f9b1e1bf4b1a8c7ecd5dc20ad0d97795d767ce070
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: LucifersCircle <luciferscircle@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.spdmlite/
+Name: SPDMLite
+Sileodepiction: https://www.idevicehacked.com/depictions/com.idevicehacked.spdmlite/SPDMLite
+
+Package: com.idevicehacked.spdmlite
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: LucifersCircle <luciferscircle@gmail.com>
+Installed-Size: 108
+Depends: mobilesubstrate, com.midnightchips.ldrun
+Filename: noDebsHere/Luci/com.idevicehacked.spdmlite_0.0.2_iphoneos-arm.deb
+Size: 5944
+MD5sum: e57517e378cbf65584072c932b726a3c
+SHA1: 127a69baf5206f466c4f9857e8828622f5d5715a
+SHA256: ee9c24df387512ce88ebaff3e22a90d99187ae5c786c761dff04f1912a9f8ee6
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: LucifersCircle <luciferscircle@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.spdmlite/
+Name: SPDMLite
+Sileodepiction: https://www.idevicehacked.com/depictions/com.idevicehacked.spdmlite/SPDMLite
+
+Package: com.idevicehacked.trampoline
+Version: 2.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Patrick Knauf
+Installed-Size: 164
+Depends: mobilesubstrate
+Filename: noDebsHere/Patrick/com.idevicehacked.trampoline_2.0-1debug_iphoneos-arm.deb
+Size: 10140
+MD5sum: a60c83d041a9a03683cae417e65b17db
+SHA1: d910058b653613c19b1c73ab1258ffe84953268f
+SHA256: bd7b9e525bee6958cf12d18f4eefad84e7cb0b7173715d0fce87f38fce30b897
+Section: Tweaks
+Description: A trampoline for your springboard
+Author: Patrick Knauf
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.trampoline
+Name: Trampoline
+
+Package: com.idevicehacked.v4theme
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Jim Andrews
+Filename: noDebsHere/JimaThemes/v4.deb
+Size: 55237684
+MD5sum: ae55caa96b05390fadcf0b45a09ebd81
+SHA1: 18538bea22ac71e8b6a012e9a7593788a05a514e
+SHA256: feaa1eb9d2bbd4ca236cf9ac520b0d62dfd6456ebaf9f471442d63b8663b664d
+Section: Themes
+Description: A beautiful theme by @jima6636
+Author: Jim Andrews
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.v4theme/
+Name: v4
+
+Package: com.ipadkid.flexit
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: LucifersCircle <luciferscircle@gmail.com>
+Installed-Size: 1560
+Depends: mobilesubstrate, firmware (>= 8.0), libactivator
+Filename: noDebsHere/iPadKid/com.ipadkid.flexit_0.0.1-1+debug_iphoneos-arm.deb
+Size: 336814
+MD5sum: 08b16489f31a87f19852df5c9fd48ba7
+SHA1: 853cce836ec374a5e8597cbe1c6a3cdbcde0ae02
+SHA256: 4fcbfd2772288a076214f62bf118e9267da982d5c8996c71e872c06cae5acd9d
+Section: System
+Description: Open source, easy to maintain, FLEX Activator tool
+Author: Flipboard/ipad_kid
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.flexit
+Name: FLEXit
+
+Package: com.kaitouiet.fastforwardtime
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Kiet Ha
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: noDebsHere/Kiet/com.kaitouiet.fastforwardtime_1.0.2_iphoneos-arm.deb
+Size: 4974
+MD5sum: 788af5c6b39107284ae96173180a652c
+SHA1: 71cddeb96bd9197ac206d789a388ea8ff9648972
+SHA256: f2178ed33d083fe81022b38f931c60beeefe83f9314a3e747a33f6868fa02f0a
+Section: Tweaks
+Description: Adds seconds to your lockscreen clock!
+Author: Kiet Ha
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.fastforwardtime
+Name: FastForwardTime
+
+Package: com.revulate.freebird
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Revulate <revulate1@gmail.com>
+Installed-Size: 380
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker,  ws.hbang.common (>= 1.11)
+Filename: noDebsHere/Rev/com.revulate.freebird_0.0.1_iphoneos-arm.deb
+Size: 44526
+MD5sum: c7b22e93dc38abd7412e459771b47585
+SHA1: b2a4d74813b410ffc50a6e29bf0e6b843beb1eac
+SHA256: b91bd0f88291a12788b175faacbca29d124038d796f5600b8405f0fdcb6147c8
+Section: Tweaks
+Description: Simple color customization for Twitter
+Author: Revulate <revulate1@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.revulate.freebird
+Name: FreeBird
+
+Package: com.revulate.freebird
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Revulate <revulate1@gmail.com>
+Installed-Size: 392
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker,  ws.hbang.common (>= 1.11)
+Filename: noDebsHere/Rev/com.revulate.freebird_0.3_iphoneos-arm.deb
+Size: 47070
+MD5sum: ce6a13b79e54b2ae679a1759c7b5caf8
+SHA1: d7921b23006830ece89b2f32472b24574747cdcb
+SHA256: ac5b6cba3b78ba8839608db95e1fa64e3b17bee1e4b00efda7823b37ee979ed4
+Section: Tweaks
+Description: Simple color customization for Twitter
+Author: Revulate <revulate1@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.revulate.freebird
+Icon: file:///Library/PreferenceBundles/FreeBird.bundle/icon@3x.png
+Name: FreeBird
+
+Package: com.revulate.freebird
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: Revulate <revulate1@gmail.com>
+Installed-Size: 404
+Depends: mobilesubstrate, me.nepeta.libcolorpicker,  ws.hbang.common (>= 1.11)
+Filename: noDebsHere/Rev/com.revulate.freebird_0.4_iphoneos-arm.deb
+Size: 117948
+MD5sum: a0f8d4c9b5929799e6cd5ca756218391
+SHA1: 738f9768e042a10c294af0140e78ee89f5fb0471
+SHA256: e5f2e014214edf87d20ce5d21c2735e75caac6871b8edd24e03a95a71e3eab41
+Section: Tweaks
+Description: Simple color customization for Twitter
+Author: Revulate <revulate1@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.revulate.freebird
+Icon: file:///Library/PreferenceBundles/FreeBird.bundle/icon@3x.png
+Name: FreeBird
+
+Package: com.revulate.freebird
+Version: 0.6
+Architecture: iphoneos-arm
+Maintainer: Revulate <revulate1@gmail.com>
+Installed-Size: 408
+Depends: mobilesubstrate, me.nepeta.libcolorpicker,  ws.hbang.common (>= 1.11)
+Filename: noDebsHere/Rev/com.revulate.freebird_0.6_iphoneos-arm.deb
+Size: 120334
+MD5sum: df6d9866db31a789821a37905dce8d11
+SHA1: e550512bac70043cd140f0f14fb1cc1b66f8e183
+SHA256: ae07bffc402f817c462ae587a3f3d7e9a5dc74546138be25bf2abedcc07953c2
+Section: Tweaks
+Description: Simple color customization for Twitter
+Author: Revulate <revulate1@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.revulate.freebird
+Icon: file:///Library/PreferenceBundles/FreeBird.bundle/icon@3x.png
+Name: FreeBird
+Sileodepiction: https://idevicehacked.com/depictions/com.revulate.freebird/FreeBird
+
+Package: com.smokin1337.barscape
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 496
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.barscape_1.0_iphoneos-arm.deb
+Size: 85116
+MD5sum: 5206404308af8ad965276b9446f51c6c
+SHA1: 43f28125c64a26b7279e51db61c4168f62538988
+SHA256: 6bdecad79f70874e3cf0990dc5883d73fc3dbd3ca15a6c06fd69e0d23db9fd23
+Section: Tweaks
+Description: Replace your homebar !
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.barscape
+Name: BarScape
+
+Package: com.smokin1337.barscape
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 592
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.barscape_1.0.1_iphoneos-arm.deb
+Size: 87202
+MD5sum: 83cfb5b5c8eecc6a9038d5cf26e87740
+SHA1: 4a9087ccf5f5cf13935f25575c051a3ec35ab93a
+SHA256: 17cda68afb76d9dcea69d8480591a91325575ea77a2ddf06318000667062552e
+Section: Tweaks
+Description: Replace your homebar !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.barscape
+Icon: https://idevicehacked.com/depictions/com.smokin1337.barscape/icon.png
+Name: BarScape
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.barscape/BarScape
+
+Package: com.smokin1337.blackoutcc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.blackoutcc_1.0_iphoneos-arm.deb
+Size: 9326
+MD5sum: 2722c909348d166ad24d3996f6524d1f
+SHA1: 7ead56a8bcb3d4d5f6c11f40a39bd7a8e570ab8b
+SHA256: fcfeb8988419caf79d457e510b892064aefea5c4ef7d275616f697011ed6ce1c
+Section: Tweaks
+Description: BlackOut your control center!
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.blackoutcc
+Icon: https://www.idevicehacked.com/depictions/com.smokin1337.blackoutcc/icon.png
+Name: BlackOutCC
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.blackoutcc/BlackOutCC
+
+Package: com.smokin1337.blurification
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 1548
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.blurification_1.0_iphoneos-arm.deb
+Size: 377358
+MD5sum: 7abc7ff8b8182357d1dd5442320e3b03
+SHA1: 08874290a0acb7414dac2301320f175a6efac921
+SHA256: 9e17927e40ad92a4985b1737a90258c409b2f98d71ed4f4fed526d2acb4bf441
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: smokin1337
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.blurification
+Name: Blurification
+
+Package: com.smokin1337.blurification
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 1548
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.blurification_1.0.1_iphoneos-arm.deb
+Size: 377538
+MD5sum: 94f13c18d0fc6ed22d7c1741f3f71a03
+SHA1: fb09c41bd76b2dc2eab2290724f990c5a2ebe8ac
+SHA256: c2ac004d72f8c09b93aafb3bcd3bcdbb2d6577700c5e51bd4fc4da82f20e2030
+Section: Tweaks
+Description: Protect your notifications!
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.blurification
+Icon: https://idevicehacked.com/depictions/com.smokin1337.blurification/icon.png
+Name: Blurification
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.blurification/Blurification
+
+Package: com.smokin1337.ccbg
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.ccbg_1.0_iphoneos-arm.deb
+Size: 18240
+MD5sum: 002aedf68170e88f6cd82b14b80cffa4
+SHA1: e7d3ad2876169e15262067963a6ed191bab62d39
+SHA256: 7ef17ac7cb723d109751c9c26f8d3aa1d8e9003cbe22f53ea039158b82f32728
+Section: Tweaks
+Description: Color your control center background!
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.ccbg
+Icon: https://www.idevicehacked.com/depictions/com.smokin1337.ccbg/icon.png
+Name: CCBG
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.ccbg/CCBG
+
+Package: com.smokin1337.fuupdatebadge
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.fuupdatebadge_1.0.0_iphoneos-arm.deb
+Size: 2296
+MD5sum: 83a83fb6102244310639fa0b79f9a984
+SHA1: e761a6f2213e8b4b1fdc42c39e5d6eed796ecba8
+SHA256: 164349386944d147ba5f029d7c1665ea48105cb4cf1edf9322634942df75e1c6
+Section: Tweaks
+Description: Hide that annoying update badge!
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.fuupdatebadge
+Name: FUUpdateBadge
+
+Package: com.smokin1337.fuupdatebadge
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.fuupdatebadge_1.0.1_iphoneos-arm.deb
+Size: 2756
+MD5sum: dc89542aaf6d82abe68009ee3ea9d15f
+SHA1: 7d3c281850b7a2421f80924165ed2f42a8883d44
+SHA256: 485849a1daf8c674f3785d9f0e26e4b82548269204babf790965ed6159f83699
+Section: Tweaks
+Description: Hide that annoying update badge!
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.fuupdatebadge
+Name: FUUpdateBadge
+
+Package: com.smokin1337.lastunlock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.lastunlock_1.0_iphoneos-arm.deb
+Size: 3452
+MD5sum: 9a8b1743f3b0fe0193edc6b86358762c
+SHA1: 878e204509a3443430683d0175e1f261e51fc59a
+SHA256: 725da2c3abc5749cc5d5058344948cf6516eb9f1869597c9196ff985db706825
+Section: Tweaks
+Description: Last unlock date and time on the lockscreen!
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.lastunlock
+Name: LastUnlock
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.lastunlocl/LastUnlock
+
+Package: com.smokin1337.lastunlock
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.lastunlock_1.0.1_iphoneos-arm.deb
+Size: 4182
+MD5sum: b74eea1c099dbbe60a4e48d9f8f1080f
+SHA1: aa5c9b3083e16db0c38ca65190602cd8a7ba87cd
+SHA256: ba0bd1df0d1e3e0970210e89224e8c8e29dd230038e79f85c9e4a147e7dd341c
+Section: Tweaks
+Description: Last unlock date and time on the lockscreen!
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.lastunlock
+Name: LastUnlock
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.lastunlock/LastUnlock
+
+Package: com.smokin1337.npurge
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.npurge_1.0_iphoneos-arm.deb
+Size: 52468
+MD5sum: 2ee936b48d44812901c02dd3001b5a62
+SHA1: afed1734246c6f09b7315d3094f8c081e9c7e3ed
+SHA256: ea8dd199d8c3fa5416bacd648361a77b96301537d54e910332fc77d358853d55
+Section: Tweaks
+Description: Purge notifications by refreshing !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.npurge
+Icon: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge.png
+Name: NPurge
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge
+
+Package: com.smokin1337.npurge
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.npurge_1.0.1_iphoneos-arm.deb
+Size: 53008
+MD5sum: f4c35e9bfc3e761069bc6f766989fa58
+SHA1: 9df11050ca1ddea79f2278d0514e754ee6d6fad5
+SHA256: ac9f7f39477e87ee2570ec1f7a37889821e2b19c3496492942ca329b3561e8a3
+Section: Tweaks
+Description: Purge notifications by refreshing !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.npurge
+Icon: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge.png
+Name: NPurge
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge
+
+Package: com.smokin1337.npurge
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.npurge_1.0.2_iphoneos-arm.deb
+Size: 53150
+MD5sum: 28c22d2dc787be7a0b740f0706897f8b
+SHA1: f016a75fb1a40160566fedad396fa8f8b9f76d05
+SHA256: b2038245fae6d8ea66fb4186f754461bf0da159192ef4370965cddfed0e6a740
+Section: Tweaks
+Description: Purge notifications by refreshing !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.npurge
+Icon: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge.png
+Name: NPurge
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge
+
+Package: com.smokin1337.npurge
+Version: 1.0.3-2
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.npurge_1.0.3-2_iphoneos-arm.deb
+Size: 53176
+MD5sum: 462a2c5f1c9d92ffc17bb1e5d45f3771
+SHA1: e752a951a0b6923b12fea921a8870142fb6aceec
+SHA256: 224531d9008914513cf2f7c42ed45d69ac5d0bed2638d3e0b17352a8908beb34
+Section: Tweaks
+Description: Purge notifications by refreshing !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.npurge
+Icon: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge.png
+Name: NPurge
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge
+
+Package: com.smokin1337.npurge
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 980
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.npurge_1.0.4_iphoneos-arm.deb
+Size: 419636
+MD5sum: 2e72e99f6a02ea1f6aa16295e9813eb5
+SHA1: c09961c2031d56962c33ab6e8536ac6ae9c24c26
+SHA256: c90868766100677cafe9cc41637e638b804f4c9410c3b813f504ff81e90efa8f
+Section: Tweaks
+Description: Purge notifications by refreshing !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.npurge
+Icon: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge.png
+Name: NPurge
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge
+
+Package: com.smokin1337.pluto
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 1876
+Depends: com.spark.libsparkapplist, com.opa334.ccsupport
+Filename: noDebsHere/Smokin/com.smokin1337.pluto_1.0_iphoneos-arm.deb
+Size: 342058
+MD5sum: f06ba00f7fa32f135bb2459cb01976d0
+SHA1: b40bcd73542af5b2adac5e775ee7ae8a752ab9e2
+SHA256: 33357fba55a421e237f1f4265ddd1d70806912eba1e8a6e0aa7246deeb3da042
+Section: Tweaks
+Description: Disable notifications with ease, and hide your icons!
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.pluto
+Icon: https://idevicehacked.com/depictions/com.smokin1337.pluto/icon.png
+Name: Pluto
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.pluto/Pluto
+
+Package: com.smokin1337.pluto
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 1880
+Depends: com.spark.libsparkapplist, com.opa334.ccsupport
+Filename: noDebsHere/Smokin/com.smokin1337.pluto_1.0.1_iphoneos-arm.deb
+Size: 343504
+MD5sum: c15c302828721ac90bdd085a5c972648
+SHA1: 39e1e5ed763d5ee0160942c2150de7feecd711e5
+SHA256: 54eb6e70494e60222feafa1515c3390e8d92882de5cd81e856300766dbf94ddc
+Section: Tweaks
+Description: Disable notifications with ease, and hide your icons!
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.pluto
+Icon: https://idevicehacked.com/depictions/com.smokin1337.pluto/icon.png
+Name: Pluto
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.pluto/Pluto
+
+Package: com.smokin1337.powerswitch
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 488
+Depends: mobilesubstrate, com.midnightchips.ldrun
+Filename: noDebsHere/Smokin/com.smokin1337.powerswitch_1.0.1_iphoneos-arm.deb
+Size: 108700
+MD5sum: 42692fc484cdda962e7b77e4e817d196
+SHA1: 409a2c53bbeff91297cb2d3641acf544181d4104
+SHA256: 3ae51db3aca9bd5aad70e844398b7baeb32a7799ef11a40571825c745dbefbf9
+Section: Tweaks
+Description: An awesome button!
+Author: smokin1337
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.powerswitch
+Name: PowerSwitch
+
+Package: com.smokin1337.powerswitch
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 580
+Depends: mobilesubstrate, com.midnightchips.ldrun
+Filename: noDebsHere/Smokin/com.smokin1337.powerswitch_1.0.3_iphoneos-arm.deb
+Size: 117764
+MD5sum: 3e582766f3877649fef6c731f9cb41d6
+SHA1: 793914ea0617f6deaf01885b222dc2a30527b4d5
+SHA256: c41c9d5e96a5172b13b1ad3af53b03517259bef717f2b781d5c3a9afccd454a2
+Section: Tweaks
+Description: An awesome button!
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.powerswitch
+Icon: https://www.idevicehacked.com/depictions/com.smokin1337.powerswitch/icon.png
+Name: PowerSwitch
+Sileodepiction: https://www.idevicehacked.com/depictions/com.smokin1337.powerswitch/PowerSwitch
+
+Package: com.smokin1337.silentium
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 1684
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.silentium_1.0_iphoneos-arm.deb
+Size: 208200
+MD5sum: 9681b8d33c887bb0be3aeb78bc134995
+SHA1: 2208c5eacb4bcc50c603db21b27c7b03c167d6cd
+SHA256: 2eebe0569378259a1ba4171a47bedd6c7fbdccdd406aa87db067e167e0211757
+Section: Tweaks
+Description: Silence everything and disable vibrations while unlocked or full time with a CC toggle !!
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.silentium
+Icon: https://idevicehacked.com/depictions/com.smokin1337.silentium/icon.png
+Name: Silentium
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.silentium/Silentium
+
+Package: com.smokin1337.silentium
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 1684
+Depends: com.spark.libsparkapplist
+Filename: noDebsHere/Smokin/com.smokin1337.silentium_1.0.1_iphoneos-arm.deb
+Size: 209862
+MD5sum: cda0d976dc0d9e3a96ca675e8ebcb88d
+SHA1: 643ab6ab1670f716ec18336cc5d10ebdecf85621
+SHA256: 8f78e7c2ba8239d1993781e3ecbcb944b557db9ba22ae281c3f7fd3a54c0d632
+Section: Tweaks
+Description: Silence everything and disable vibrations while unlocked or full time with a CC toggle !!
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.silentium
+Icon: https://idevicehacked.com/depictions/com.smokin1337.silentium/icon.png
+Name: Silentium
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.silentium/Silentium
+
+Package: com.smokin1337.silentium
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 1688
+Depends: com.spark.libsparkapplist
+Filename: noDebsHere/Smokin/com.smokin1337.silentium_1.0.2_iphoneos-arm.deb
+Size: 210406
+MD5sum: ccba3b7aa1224c5a206a0bd5f32d38b4
+SHA1: 853cc495b6e70f554fa025b7552216f373dc5ddf
+SHA256: 5f997585e7bd8d70459fc9142e0fe4495662cea9874ea07ecfcffdf95fc2f44e
+Section: Tweaks
+Description: Silence everything and disable vibrations while unlocked or full time with a CC toggle !!
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.silentium
+Icon: https://idevicehacked.com/depictions/com.smokin1337.silentium/icon.png
+Name: Silentium
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.silentium/Silentium
+
+Package: com.smokin1337.sleeptoggle
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 844
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: noDebsHere/Smokin/com.smokin1337.sleeptoggle_1.0_iphoneos-arm.deb
+Size: 88800
+MD5sum: dcc1a46c12407c6d5959bda2851e97ef
+SHA1: 93e4506662a69d7b1291d9cf6e10c7b668337eb7
+SHA256: 32a11db784ea2503d24b56806b623b6e9ce04aa4dfb65e31903aa94cf9bcd6bf
+Section: Control Center (Modules)
+Description: CC module to disable idle sleep/auto lock !
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.sleeptoggle
+Name: SleepToggle
+
+Package: com.smokin1337.sleeptoggle
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 572
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: noDebsHere/Smokin/com.smokin1337.sleeptoggle_1.0.1_iphoneos-arm.deb
+Size: 92682
+MD5sum: 321d56f68c777cf17dbafffe361614f0
+SHA1: 48ac4f3c1c0a9656324b7fd3d44f5f045150444b
+SHA256: 51aa011ee232402af5b02aaea33fee3a4ab87517161e233dfaabc61d75f64215
+Section: Tweaks
+Description: CC module to disable idle sleep/auto lock !
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.sleeptoggle
+Name: SleepToggle
+
+Package: com.smokin1337.sleeptoggle
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 572
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: noDebsHere/Smokin/com.smokin1337.sleeptoggle_1.0.2_iphoneos-arm.deb
+Size: 92660
+MD5sum: 6cac4b1d90690ebed4ad407dcaed3789
+SHA1: 69c28c6b84fe6e2eef4dea3ee5de69e06322c6cf
+SHA256: bace456fe82e515a6bd6439385c23dfb406c7447f94c882f3f6236fb90e38177
+Section: Tweaks
+Description: CC module to disable idle sleep/auto lock !
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.sleeptoggle
+Name: SleepToggle
+
+Package: com.smokin1337.sleeptoggle
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 732
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: noDebsHere/Smokin/com.smokin1337.sleeptoggle_1.0.3_iphoneos-arm.deb
+Size: 95166
+MD5sum: e15a644ad0533bd6a8b6a4815df68399
+SHA1: 9783b56851e81016763978004eed47d73ab45fdf
+SHA256: 6da49b60035d17f8a7f89f39851f2bfefdb77da2bcc3d8789a01b2781fe3a456
+Section: Tweaks
+Description: CC module to disable idle sleep/auto lock !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.sleeptoggle
+Icon: https://idevicehacked.com/depictions/com.smokin1337.sleeptoggle/icon.png
+Name: SleepToggle
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.sleeptoggle/SleepToggle
+
+Package: com.smokin1337.smartlight
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.smartlight_1.0_iphoneos-arm.deb
+Size: 3136
+MD5sum: c408d25d4eef93367fc74615878c4e58
+SHA1: a5c706e14099ed5e25bf440e2757eaa1897fd008
+SHA256: 024e71a103e74fac5a4e7a9e55ab80a3777e3f38def3678a4ec5c89ad64dc7fe
+Section: Tweaks
+Description: Activate flashlight with VolumeDown+Lock change brightness level with VolumeUp!
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.smartlight
+Name: SmartLight
+
+Package: com.smokin1337.smartlight
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.smartlight_1.0.1_iphoneos-arm.deb
+Size: 3140
+MD5sum: 0668764a0cb7f51fbf20c4e334627ae4
+SHA1: fc5883033f533371789194091724bd2fd35a5fe3
+SHA256: 5ef05576fd16e65126bd7c00288f116de48ee96858c18623c3f00531ed51209c
+Section: Tweaks
+Description: Activate flashlight with VolumeDown+Lock change brightness level with VolumeUp!
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.smartlight
+Name: SmartLight
+
+Package: com.smokin1337.smartlight
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.smartlight_1.0.2_iphoneos-arm.deb
+Size: 3066
+MD5sum: 73250744e5020543da7a86d22935f129
+SHA1: 642610444fb322b85f91a127fac9be38f7e15b78
+SHA256: 20ca50e975b1ceb7f2f5a52ca079a87eb61e77f4a9442387430718a6dcef724f
+Section: Tweaks
+Description: Activate flashlight with VolumeDown+Lock change brightness level with VolumeUp!
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.smartlight
+Name: SmartLight
+
+Package: com.smokin1337.smartlight
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.smartlight_1.0.3_iphoneos-arm.deb
+Size: 3736
+MD5sum: af187adf41dc5cd1584180e139dfe878
+SHA1: b34250223503bdcbfbec299086811b3a06f67500
+SHA256: 09b2eeb6d1b6db9303d6971e85d45b32dc81bd788bc6e2288fdd3268efb1f470
+Section: Tweaks
+Description: Activate flashlight with VolumeDown+Lock change brightness level with VolumeUp and VolumeDown!
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.smartlight
+Name: SmartLight
+
+Package: com.smokin1337.smartlight
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.smartlight_1.0.4_iphoneos-arm.deb
+Size: 4864
+MD5sum: 95e11c2df8dccb4e2681eca18c8b806d
+SHA1: 0eee758f058992a2aa63f68db104cd81fb3f1e95
+SHA256: fee1def46a95802909eb8eb4681f76ca5e45ea780c09ab4e1360b77b270d8fe4
+Section: Tweaks
+Description: Activate flashlight with VolumeDown+Lock change brightness level with VolumeUp and VolumeDown!
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.smartlight
+Name: SmartLight
+Sileodepiction: https://www.idevicehacked.com/depictions/com.smokin1337.smartlight/SmartLight
+
+Package: com.smokin1337.togglow
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 872
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: noDebsHere/Smokin/com.smokin1337.togglow_1.0.5_iphoneos-arm.deb
+Size: 187166
+MD5sum: c3c76d41be3a838d98710c17720509da
+SHA1: 0625546f4f0e7e69f0b24b3679b281d8665df31b
+SHA256: 467a9dc404d24240abf11bcc4455894c107406785bda9e171a38e04655b87708
+Section: Tweaks
+Description: Make the control center your own !
+Author: smokin1337
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
+Name: Togglow
+
+Package: com.smokin1337.togglow
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 1044
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: noDebsHere/Smokin/com.smokin1337.togglow_1.0.6_iphoneos-arm.deb
+Size: 323606
+MD5sum: 46af5e64198f20929ceae1409a32ef20
+SHA1: cded5ffaa7e31b6d8c2a482db9c0c0ebedc2795e
+SHA256: cb5945be3f2172e2e2db263406143b1af706e8aa47fd06c49bd6d34abc95090d
+Section: Tweaks
+Description: Make the control center your own !
+Author: smokin1337
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
+Name: Togglow
+
+Package: com.smokin1337.togglow
+Version: 1.0.6-1
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 1044
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: noDebsHere/Smokin/com.smokin1337.togglow_1.0.6-1_iphoneos-arm.deb
+Size: 323492
+MD5sum: 80abd1161ea53f02b2dbd82e805bacb8
+SHA1: 1bc74888ebd778b7464e56b9598e778449a380ed
+SHA256: 92c124b46988ba2e98c321905167aaa35c3a74084b06367f0d73d11d01951253
+Section: Tweaks
+Description: Make the control center your own !
+Author: smokin1337
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
+Name: Togglow
+
+Package: com.smokin1337.togglow
+Version: 1.0.6-3
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 1044
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: noDebsHere/Smokin/com.smokin1337.togglow_1.0.6-3_iphoneos-arm.deb
+Size: 323830
+MD5sum: 0354af2064c43a65931a01a10484d149
+SHA1: f7e999331f20a965074fbf754756a87d1559c259
+SHA256: 57514eb9471fe15268351088ead61b48f6fbfe578718db2c5af3982bd909b8e3
+Section: Tweaks
+Description: Make the control center your own !
+Author: smokin1337
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
+Name: Togglow
+
+Package: com.smokin1337.togglow
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 1220
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: noDebsHere/Smokin/com.smokin1337.togglow_1.0.7_iphoneos-arm.deb
+Size: 348322
+MD5sum: e02feae445057f898b34950c1b003ae8
+SHA1: c2d8ecaafb930fa0748c44a13c5ba8174bd4fca6
+SHA256: 8a0cc40260589fd5e89484a51f4240350e2153a3e86c90b6c4c1bd1ae7bac758
+Section: Tweaks
+Description: Make the control center your own !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
+Icon: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/icon.png
+Name: Togglow
+Sileodepiction: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/Togglow
 

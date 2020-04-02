@@ -1,0 +1,48 @@
+<package>
+	<id>com.smokin1337.lastunlock</id>
+	<name>LastUnlock</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+
+    <changelog>
+	<change>Added last respring date/time</change>
+	<change>Resized font</change>
+    </changelog>
+
+    <screenshots>
+    </screenshots>
+
+	<descriptionlist>
+
+		<description>Show last unlock and respring date and time on the lockscreen. This replaces the swipe up/press home to unlock text with the date and time of when the device was last unlocked</description>
+
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+        <link>
+            <name>Buy smokin1337 a coffee</name>
+            <url>https://www.paypal.me/smokin1337</url>
+            <iconclass>fa fa-paypal</iconclass>
+        </link>
+	<link>
+		<name>Twitter</name>
+		<url>https://twitter.com/smokin1337</url>
+		<iconclass> fa fa-twitter</iconclass>
+		</link>
+    </links>
+</package>
