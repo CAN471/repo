@@ -1,8 +1,8 @@
-Origin: CAN471 REPO
-Label: CAN471
+Origin: iDevice Hacked Repo
+Label: iDeviceHacked [lovely day to be jailbroken]
 Suite: stable
-Version: 1.0
-Codename: ios
+Version: 0.9
+Codename: idevicehackedrepo420
 Architectures: iphoneos-arm
 Components: main
-Description: The best Source for Hacked Games & Apps, and Cracked Tweaks.
+Description: iDeviceHacked [lovely day to be jailbroken]

@@ -1,0 +1,94 @@
+<package>
+	<id>com.smokin1337.togglow</id>
+	<name>Togglow</name>
+	<version>1.0.7</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+
+    <changelog>
+			<change>Updated for arm64e(A12)</change>
+    </changelog>
+
+    <screenshots>
+        <screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot1.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot2.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot3.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot4.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot5.jpg</image>
+        </screenshot>
+				<screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot6.jpg</image>
+        </screenshot>
+				<screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot7.jpg</image>
+        </screenshot>
+				<screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot8.jpg</image>
+        </screenshot>
+				<screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot9.jpg</image>
+        </screenshot>
+    </screenshots>
+
+	<descriptionlist>
+		<description>Make your connectivity module glow !!</description>
+    <description>Change the look of your connectivity module in the control center</description>
+    <description>You can customize each button individually or apply unified settings to all buttons</description>
+    <description>Uses stock colors when custom colors are disabled</description>
+    <description>Custom settings for when the switch is on and when it is off (connectivity module only)</description>
+    <description>To apply settings simply expand the connectivity module</description>
+		<description>Customize all the modules</description>
+		<description>Customize the control center background, you can make it a gradient which you select four colors to make or a solid color you choose</description>
+		<description>Compatible with most other CC tweaks</description>
+
+        <description><![CDATA[Options:<br/>
+        <ul>
+            <li>Select custom colors for glow and border</li><br/>
+            <li>Edit border width</li><br/>
+            <li>Edit border corner radius</li><br/>
+            <li>Edit glow radius</li><br/>
+            <li>Edit glow opacity</li>
+        </ul>
+        ]]></description>
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+	<link>
+		<name>Twitter</name>
+		<url>https://twitter.com/smokin1337</url>
+		<iconclass> fa fa-twitter</iconclass>
+		</link>
+    </links>
+</package>
