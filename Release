@@ -1,8 +1,7 @@
-Origin: iDevice Hacked Repo
-Label: iDeviceHacked [lovely day to be jailbroken]
+Origin: Test1 Repo
+Label: Test1 Repo
 Suite: stable
-Version: 0.9
-Codename: idevicehackedrepo420
+Version: 1.0
+Codename: ios
 Architectures: iphoneos-arm
-Components: main
-Description: iDeviceHacked [lovely day to be jailbroken]
+Components: Test1 Repo
