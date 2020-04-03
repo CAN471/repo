@@ -1,0 +1,7 @@
+Origin: Test1 Repo
+Label: Test1 Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: Test1 Repo
